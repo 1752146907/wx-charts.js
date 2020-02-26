@@ -1,2 +1,2 @@
 # wx-charts.js
-# 教程：https://juejin.im/post/5e5621d6f265da575f4e7050
+参考教程：https://juejin.im/post/5e5621d6f265da575f4e7050
